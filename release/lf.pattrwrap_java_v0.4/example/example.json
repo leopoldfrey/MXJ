@@ -1,0 +1,33 @@
+{
+	"pattrstorage" : 	{
+		"name" : "example",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "A1_A2_B1_C1",
+				"data" : 				{
+					"A[1]::A_pst" : [ 1 ],
+					"B::B_pst" : [ 1 ],
+					"C::C_pst" : [ 1 ],
+					"A[2]::A_pst" : [ 2 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "A3_A3_B2_C2",
+				"data" : 				{
+					"A[1]::A_pst" : [ 3 ],
+					"B::B_pst" : [ 2 ],
+					"C::C_pst" : [ 2 ],
+					"A[2]::A_pst" : [ 3 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "FourMovieBank">
+	<slot number = "1" name = "particule1 sync cut">
+		<pattr name = "fade1" value = "0" />
+		<pattr name = "fade2" value = "0" />
+		<pattr name = "fade3" value = "0" />
+		<pattr name = "fade4" value = "0" />
+		<pattr name = "vp1" value = "&quot;particules 1.dv&quot;" />
+		<pattr name = "vp2" value = "ignore" />
+		<pattr name = "vp3" value = "ignore" />
+		<pattr name = "vp4" value = "ignore" />
+		<pattr name = "sync1" value = "1" />
+		<pattr name = "sync2" value = "1" />
+		<pattr name = "sync3" value = "1" />
+		<pattr name = "sync4" value = "1" />
+	</slot>
+	<slot number = "2" name = "particule3 split 5s">
+		<pattr name = "fade1" value = "5000" />
+		<pattr name = "fade2" value = "5000" />
+		<pattr name = "fade3" value = "5000" />
+		<pattr name = "fade4" value = "5000" />
+		<pattr name = "vp1" value = "&quot;particules 3.dv&quot;" />
+		<pattr name = "vp2" value = "ignore" />
+		<pattr name = "vp3" value = "ignore" />
+		<pattr name = "vp4" value = "ignore" />
+		<pattr name = "sync1" value = "2" />
+		<pattr name = "sync2" value = "2" />
+		<pattr name = "sync3" value = "2" />
+		<pattr name = "sync4" value = "2" />
+	</slot>
+	<slot number = "3" name = "part4224 25s">
+		<pattr name = "fade1" value = "25000" />
+		<pattr name = "fade2" value = "25000" />
+		<pattr name = "fade3" value = "25000" />
+		<pattr name = "fade4" value = "25000" />
+		<pattr name = "vp1" value = "&quot;particules 4.dv&quot;" />
+		<pattr name = "vp2" value = "&quot;particules 2.dv&quot;" />
+		<pattr name = "vp3" value = "&quot;particules 2.dv&quot;" />
+		<pattr name = "vp4" value = "&quot;particules 4.dv&quot;" />
+		<pattr name = "sync1" value = "0" />
+		<pattr name = "sync2" value = "0" />
+		<pattr name = "sync3" value = "0" />
+		<pattr name = "sync4" value = "0" />
+	</slot>
+	<slot number = "4" name = "part1split2 5s">
+		<pattr name = "fade1" value = "5000" />
+		<pattr name = "fade2" value = "5000" />
+		<pattr name = "fade3" value = "5000" />
+		<pattr name = "fade4" value = "5000" />
+		<pattr name = "vp1" value = "&quot;particules 1.dv&quot;" />
+		<pattr name = "vp2" value = "&quot;particules 2.dv&quot;" />
+		<pattr name = "vp3" value = "&quot;particules 2.dv&quot;" />
+		<pattr name = "vp4" value = "&quot;particules 1.dv&quot;" />
+		<pattr name = "sync1" value = "2" />
+		<pattr name = "sync2" value = "0" />
+		<pattr name = "sync3" value = "0" />
+		<pattr name = "sync4" value = "2" />
+	</slot>
+</pattrstorage>
+

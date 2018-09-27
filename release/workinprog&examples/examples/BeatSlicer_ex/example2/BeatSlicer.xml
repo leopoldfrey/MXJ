@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "BeatSlicer">
+	<slot number = "1">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "0." />
+		<pattr name = "amp_seq" value = "0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "30." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "1." />
+		<pattr name = "pitch_seq" value = "1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "93." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "6 10 9 5 12 13 6 12 1 13 6 12 13 5 6 11" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "2">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-96." />
+		<pattr name = "amp_seq" value = "-4.915663 -96. -96. -96. -4.915663 -96. -96. -96. 0.289157 -96. -96. -96. -4.915663 -96. -96. -96." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "30." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "1." />
+		<pattr name = "pitch_seq" value = "1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "93." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "6 10 9 5 12 13 6 12 1 13 6 12 13 5 6 11" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "3">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-96." />
+		<pattr name = "amp_seq" value = "-4.915663 -96. -96. -96. -4.915663 -96. -96. -96. 0.289157 -1.012048 -1.012048 -96. -4.915663 2.891566 12. 12." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "30." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "1." />
+		<pattr name = "pitch_seq" value = "1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.915663 -0.036145 -0.325301" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "93." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "6 10 9 5 12 13 6 12 1 13 6 12 13 5 6 11" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "4">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-1.012048" />
+		<pattr name = "amp_seq" value = "-4.915663 -96. -6.216867 -96. -4.915663 -96. -7.518072 -96. 0.289157 -96. -6.216867 -96. -4.915663 -96. -1.012048 -96." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "30." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "2.060241" />
+		<pattr name = "pitch_seq" value = "1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 2.060241 1." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "93." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "6 10 9 5 12 13 6 12 1 13 6 12 13 5 6 11" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "5">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "0." />
+		<pattr name = "amp_seq" value = "0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "68." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "-1.26506" />
+		<pattr name = "pitch_seq" value = "-1.409639 -0.686747 0.975904 2.204819 3. 2.855422 1.987952 -0.253012 -0.614458 -0.903614 -1.26506 -1.481928 -1.554217 -1.626506 -1.698795 -1.626506" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "93." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "3 11 5 7 6 11 3 9 9 6 3 14 9 14 7 10" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "6">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "0." />
+		<pattr name = "amp_seq" value = "0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "30." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "3." />
+		<pattr name = "pitch_seq" value = "2.855422 1.987952 -0.253012 -0.614458 -0.903614 -1.26506 -1.481928 -1.554217 -1.626506 -1.698795 -1.626506 -1.409639 -0.686747 0.975904 2.204819 3." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "93." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "7">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-96." />
+		<pattr name = "amp_seq" value = "-2.34 -96. -96. -96. -2.34 -96. -96. -96. -2.34 -96. -96. -96. -2.34 -96. -96. -96." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "11." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "1.03" />
+		<pattr name = "pitch_seq" value = "1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "40." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 7 1 2 17 16 16 5 17 1 7 10 14 4 2 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "8">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-96." />
+		<pattr name = "amp_seq" value = "-2.34 -96. -96. -96. -2.34 -96. -96. -96. -2.34 -96. -96. -96. -2.34 -96. -96. -96." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "11." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "1.03" />
+		<pattr name = "pitch_seq" value = "1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "40." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "7 1 2 17 16 16 5 17 1 7 10 14 4 2 7 1" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "9">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-2.34" />
+		<pattr name = "amp_seq" value = "-2.34 -96. -96. -96. -2.34 -96. -96. -96. -2.34 -96. -96. -96. -2.34 -96. -96. -96." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "11." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "1.03" />
+		<pattr name = "pitch_seq" value = "2.204819 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "40." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 2 17 16 16 5 17 1 7 10 14 4 2 7 1 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "10">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-96." />
+		<pattr name = "amp_seq" value = "-96. -96. -96. -96. 1.590361 -96. -96. -96. -96. -96. -96. -96. -2.34 -96. -96. -96." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "11." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "1.03" />
+		<pattr name = "pitch_seq" value = "1.03 1.03 1.03 1.03 1.626506 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "40." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 7 1 2 7 16 16 5 17 1 7 10 14 4 2 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "11">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-37.445782" />
+		<pattr name = "amp_seq" value = "-2.34 -2.313253 -96. -19.228916 -2.34 -96. -19.228916 -33.542168 -2.34 -96. -96. -21.831326 -2.34 -96. -37.445782 -8.819277" />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "1" />
+		<pattr name = "clip_length" value = "11." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "2.493976" />
+		<pattr name = "pitch_seq" value = "1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 1.03 2.493976 2.783133" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "40." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 7 1 2 17 16 16 5 17 1 7 10 14 4 2 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "12">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "5.493976" />
+		<pattr name = "amp_seq" value = "4.192771 -96. -20.530121 -96. -2.34 -96. -17.927711 -11.421687 -2.34 5.493976 -20.530121 -12.722892 -2.34 -96. -20.530121 -12.722892" />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "58." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "0.4" />
+		<pattr name = "pitch_seq" value = "0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "186." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 7 1 2 14 14 14 5 14 1 7 6 14 4 6 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "13">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-2.34" />
+		<pattr name = "amp_seq" value = "4.192771 -96. -20.530121 -96. -2.34 -14.024096 -17.927711 -11.421687 -2.34 5.493976 -20.530121 -12.722892 -2.34 -96. -20.530121 -12.722892" />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "58." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "0.4" />
+		<pattr name = "pitch_seq" value = "0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.4" />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "186." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 7 1 2 5 10 10 5 14 1 7 6 14 4 6 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "14">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-2.34" />
+		<pattr name = "amp_seq" value = "4.192771 -96. -20.530121 -96. -2.34 -14.024096 -17.927711 -11.421687 -2.34 5.493976 -20.530121 -12.722892 -2.34 -96. -20.530121 -12.722892" />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "58." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "2." />
+		<pattr name = "pitch_seq" value = "2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "186." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 7 1 2 5 10 10 5 14 1 7 6 14 4 6 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "15">
+		<pattr name = "adapt_metro" value = "0" />
+		<pattr name = "amp" value = "-2.34" />
+		<pattr name = "amp_seq" value = "4.192771 -96. -20.530121 -96. -2.34 -14.024096 -17.927711 -11.421687 -2.34 5.493976 -20.530121 -12.722892 -2.34 -7.518072 -20.530121 -12.722892" />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "58." />
+		<pattr name = "division" value = "32" />
+		<pattr name = "mode" value = "1" />
+		<pattr name = "pitch" value = "2." />
+		<pattr name = "pitch_seq" value = "0.831325 2. 2. 2. 2. 2. 2. 2. 2. 0.903614 2. 2. 2. 0.831325 2. 2." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "22." />
+		<pattr name = "seq_interval" value = "186." />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "1 7 1 2 5 10 10 5 14 1 7 6 14 1 6 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "20">
+		<pattr name = "adapt_metro" value = "1" />
+		<pattr name = "amp" value = "0." />
+		<pattr name = "amp_seq" value = "0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "30." />
+		<pattr name = "division" value = "8" />
+		<pattr name = "mode" value = "2" />
+		<pattr name = "pitch" value = "1." />
+		<pattr name = "pitch_seq" value = "1. 1. 1. 1. -0.903614 1. 1. 1. 1. -0.759036 -0.614458 1. 1. 1. 1. 1." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "352.721191" />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "0 2 1 4 3 6 5 7 0 1 3 3 2 5 6 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+	<slot number = "21">
+		<pattr name = "adapt_metro" value = "1" />
+		<pattr name = "amp" value = "0." />
+		<pattr name = "amp_seq" value = "0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0." />
+		<pattr name = "amp_seq_on" value = "1" />
+		<pattr name = "clip" value = "0" />
+		<pattr name = "clip_length" value = "30." />
+		<pattr name = "division" value = "8" />
+		<pattr name = "mode" value = "2" />
+		<pattr name = "pitch" value = "2.493976" />
+		<pattr name = "pitch_seq" value = "1. 2.421687 1. 1. -0.903614 1. 1. 1. 1. -0.759036 -0.614458 1. 1. 1. 2.493976 1." />
+		<pattr name = "pitch_seq_on" value = "1" />
+		<pattr name = "release" value = "50." />
+		<pattr name = "seq_interval" value = "352.811768" />
+		<pattr name = "seq_on" value = "1" />
+		<pattr name = "slice" value = "0 7 1 4 3 6 6 6 0 1 3 6 2 5 7 7" />
+		<pattr name = "thresholddB" value = "-14." />
+	</slot>
+</pattrstorage>
+

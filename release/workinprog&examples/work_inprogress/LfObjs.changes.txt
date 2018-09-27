@@ -1,0 +1,13 @@
+LfObjects Changes:
+
+version 1.2
+
+* Modul v0.2
+	-> modulo en nombre flottant
+	
+	
+	
+	
+Known Bugs
+
+* FloatFormatter v0.2

@@ -1,0 +1,41 @@
+{
+	"pattrstorage" : 	{
+		"name" : "example",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "test1",
+				"data" : 				{
+					"pst1" : [ "A1" ],
+					"pst2" : [ "A1" ],
+					"pst3" : [ "test" ],
+					"pst4" : [ "test3" ],
+					"A[1]::A_pst" : [ 1 ],
+					"B::B_pst" : [ 1 ],
+					"C::C_pst" : [ 1 ],
+					"A[2]::A_pst" : [ 1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "test2",
+				"data" : 				{
+					"pst1" : [ "A2" ],
+					"pst2" : [ "A3" ],
+					"pst3" : [ "test2" ],
+					"pst4" : [ "test4" ],
+					"A[1]::A_pst" : [ 2 ],
+					"B::B_pst" : [ 2 ],
+					"C::C_pst" : [ 2 ],
+					"A[2]::A_pst" : [ 3 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

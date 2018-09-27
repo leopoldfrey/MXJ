@@ -1,0 +1,35 @@
+{
+	"pattrstorage" : 	{
+		"name" : "C_pst",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "test3",
+				"data" : 				{
+					"flonum[1]" : [ 2.0 ],
+					"flonum[2]" : [ 1.0 ],
+					"slider[1]" : [ 27.076923 ],
+					"slider[2]" : [ 35.692307 ],
+					"test" : [ "/test", 1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "test4",
+				"data" : 				{
+					"flonum[1]" : [ 66.0 ],
+					"flonum[2]" : [ 30.0 ],
+					"slider[1]" : [ 124.307693 ],
+					"slider[2]" : [ 123.07692 ],
+					"test" : [ "/test", 2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

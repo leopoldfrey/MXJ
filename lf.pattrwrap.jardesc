@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="/Users/leo/Documents/__PATCHS/__MXJ/release/lf.pattrwrap.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/mxj/lf.pattrwrap.jardesc" exportErrors="false" exportWarnings="false" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/mxj/MANIFEST.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=mxj/src&lt;lf{pattrwrap2.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf{pattrwrap.java"/>
+    </selectedElements>
+</jardesc>

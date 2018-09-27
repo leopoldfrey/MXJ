@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Users/leo/Documents/__PATCHS/__MXJ/release/lf.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/mxj/lf.jardesc" exportErrors="false" exportWarnings="false" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/mxj/MANIFEST.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=mxj/src&lt;bak"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{Degenerate.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.net{Connection.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{JitterGuiSlider.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;ergo"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.util{IntegerVectorSort.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;topher"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.util{Interpreter.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{KeyStone2.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{IntMatrix.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{JitterGuiEnvironment.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{JitterGuiSliderElement.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.net{TcpConnection.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{JitterGuiPointElement.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.gui{TitleBar.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf{LfMaxWindow.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf{LfMspObject.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;aaa"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{JitterGuiTracker.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;hhn"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf{pattrwrap.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{JitterGuiElement.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.gui{FloatingWindow.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf{pattrwrap2.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.net{Friend.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.gui{BarreProgression.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{JitterGuiIntersection.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;bof{Op.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.net{Param.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.db{DataBase.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.util{Formatter.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;pts"/>
+        <javaElement handleIdentifier="=mxj/src&lt;jit{KeyStone.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf{LfObject.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.util{FloatVectorSort.java"/>
+        <javaElement handleIdentifier="=mxj/src&lt;lf.net{UdpConnection.java"/>
+    </selectedElements>
+</jardesc>

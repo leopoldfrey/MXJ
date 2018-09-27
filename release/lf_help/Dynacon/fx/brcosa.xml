@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "brcosa">
+	<slot number = "1" name = "reset">
+		<pattr name = "brightness" value = "1." />
+		<pattr name = "contrast" value = "1." />
+		<pattr name = "saturation" value = "1." />
+	</slot>
+	<slot number = "2" name = "b&amp;w">
+		<pattr name = "brightness" value = "1." />
+		<pattr name = "contrast" value = "1." />
+		<pattr name = "saturation" value = "0." />
+	</slot>
+	<slot number = "3" name = "dark-satur">
+		<pattr name = "brightness" value = "0.33" />
+		<pattr name = "contrast" value = "1.08" />
+		<pattr name = "saturation" value = "27." />
+	</slot>
+</pattrstorage>
+

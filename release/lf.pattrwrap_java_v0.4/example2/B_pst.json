@@ -1,0 +1,35 @@
+{
+	"pattrstorage" : 	{
+		"name" : "B_pst",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "test",
+				"data" : 				{
+					"flonum[1]" : [ 3.0 ],
+					"flonum[2]" : [ 5.0 ],
+					"slider[1]" : [ 108.307693 ],
+					"slider[2]" : [ 27.076923 ],
+					"test" : [ "/test", 2 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "test2",
+				"data" : 				{
+					"flonum[1]" : [ 73.0 ],
+					"flonum[2]" : [ 67.0 ],
+					"slider[1]" : [ 13.538462 ],
+					"slider[2]" : [ 119.384613 ],
+					"test" : [ "/test", 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
