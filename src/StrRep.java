@@ -25,7 +25,7 @@ public class StrRep extends LfObject {
 			if (atoms != null && !message.equalsIgnoreCase(""))
 			{
 				result = message.concat(" " + Atom.toOneString(atoms));
-				outlet(0, result.toLowerCase().replaceAll("t'en ", "tan ").replaceAll("m'ennuie.", "ment nuit.").replaceAll("’", "").replaceAll("ô", "o").replaceAll("î", "i").replaceAll("ù", "u").replaceAll("'", "").replaceAll(",", "").replaceAll("-", " ").replaceAll("\"", "").replaceAll("cest a", "cètt a").replaceAll("cest e", "cètt e").replaceAll("cest o", "cètt o").replaceAll("cest i", "cètt i").replaceAll("cest u", "cètt u").replaceAll("cest", "cè").replaceAll("quest ", "qè"));
+				outlet(0, result.toLowerCase().replaceAll("t'en ", "tan ").replaceAll("n'en as", "nan. na").replaceAll("’", "").replaceAll("ô", "o").replaceAll("î", "i").replaceAll("ù", "u").replaceAll("'", "").replaceAll(",", "").replaceAll("-", " ").replaceAll("\"", "").replaceAll("cest a", "cètt a").replaceAll("cest e", "cètt e").replaceAll("cest o", "cètt o").replaceAll("cest i", "cètt i").replaceAll("cest u", "cètt u").replaceAll("cest ", "cè ").replaceAll("quest ", "qè ").replaceAll("nest ", "nè ").replaceAll("disons ", "disons, ").replaceAll("mennuie", "ment nuit").replaceAll("tennuie", "tant nuit"));
 			}
 			
 		}
