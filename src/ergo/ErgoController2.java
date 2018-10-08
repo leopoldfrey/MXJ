@@ -8,16 +8,16 @@ import com.cycling74.max.DataTypes;
 import ergo.WebsocketClientEndpoint.MessageHandler;
 import lf.LfObject;
 
-public class ErgoController extends LfObject implements MessageHandler {
+public class ErgoController2 extends LfObject implements MessageHandler {
 	WebsocketClientEndpoint clientEndPoint;
 	boolean connected = false;
 	int protocol = 0;
 	String defmessage = "FOCUS ON THE CONFERENCE";
-	String server = "http://ergonomics.lri.fr/uploads/";
-	String socket = "ws://ergonomics.lri.fr/ws";
-	String local = "/Users/leo/Documents/__PROJETS/_pulso/Ergonomics/Serveur/ErgoController/img/";
+	public static String server = "https://ergoliveconference.herokuapp.com/uploads/";
+	public static String socket = "ws://ergoliveconference.herokuapp.com";
+	public static String local = "/Users/leo/Documents/__PROJETS/_pulso/Ergonomics/Serveur/ErgoController/img/";
 
-	public ErgoController(Atom[] atoms) {
+	public ErgoController2(Atom[] atoms) {
 		version = 0.1f;
 		build = "12/09/17";
 		INLET_ASSIST = new String[] { "Commands to server" };

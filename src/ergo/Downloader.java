@@ -32,7 +32,7 @@ public class Downloader implements Runnable {
 	    }
 	}
 	
-	Downloader(String img) {
+	/*Downloader(String img) {
 		if(!downloading.contains(img) && !doneDL.contains(img))
 		{
 			imgStr = img;
@@ -44,7 +44,22 @@ public class Downloader implements Runnable {
 			t = new Thread (this, imgStr);
 			t.start ();
 		}
+	}//*/
+
+	Downloader(String server, String local, String img) {
+		if(!downloading.contains(img) && !doneDL.contains(img))
+		{
+			imgStr = img;
+			urlStr = server+imgStr; 
+			fileStr = local+"/"+imgStr;
+			downloading.add(imgStr);
+			System.out.println("ErgoController | < Starting Download " +  imgStr );
+			//System.out.println("->>>> fileStr : "+fileStr);
+			t = new Thread (this, imgStr);
+			t.start ();
+		}
 	}
+
 	
 	public void run() {
 		 try {
@@ -74,6 +89,7 @@ public class Downloader implements Runnable {
 			 doneDL.addElement(imgStr);
 		 } catch (Exception e) {
 			 System.out.println("ErgoController | Error while Downloading " +  imgStr );
+			 e.printStackTrace();
 			 downloading.remove(imgStr);
 			 errorDL.addElement(imgStr);
 		 }
