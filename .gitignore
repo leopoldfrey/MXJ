@@ -1,4 +1,2 @@
-
-bin/ergo/ErgoController2.class
-bin/ergo/ErgoController.class
-bin/ergo/Downloader.class
+/bin/
+*.class

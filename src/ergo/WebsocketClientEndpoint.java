@@ -61,9 +61,13 @@ public class WebsocketClientEndpoint {
      */
     @OnMessage
     public void onMessage(String message) {
-        if (this.messageHandler != null) {
-            this.messageHandler.handleMessage(message);
-        }
+    	try {
+    		if (this.messageHandler != null) {
+                this.messageHandler.handleMessage(message);
+            }	
+    	} catch (Error e) {
+    		e.printStackTrace();
+    	}
     }
 
     /**
