@@ -17,11 +17,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Applications/Max.app/Contents/Resources/C74/packages/max-mxj/java-classes/lib/jitter.jar"/>
-	<classpathentry kind="lib" path="/Applications/Max.app/Contents/Resources/C74/packages/max-mxj/java-classes/lib/max.jar" sourcepath="/Applications/Max.app/Contents/Resources/C74/packages/max-mxj/java-classes/lib/max.jar"/>
 	<classpathentry kind="lib" path="/Users/leo/Documents/__PROJETS/_pulso/Ergonomics/Serveur/ErgoController/javax.websocket-api-1.1.jar"/>
 	<classpathentry kind="lib" path="/Users/leo/Documents/__PATCHS/__ENTROPIE/library/javaosc.jar"/>
 	<classpathentry kind="lib" path="/Users/leo/Documents/__PROJETS/_pulso/Ergonomics/Serveur/ErgoController/tyrus-standalone-client-1.9.jar"/>
 	<classpathentry kind="lib" path="/Users/leo/Documents/__PROJETS/_pulso/Ergonomics/Serveur/ErgoController/json-20180813.jar"/>
+	<classpathentry kind="lib" path="/Applications/Max8.app/Contents/Resources/C74/packages/max-mxj/java-classes/lib/max.jar"/>
+	<classpathentry kind="lib" path="/Applications/Max8.app/Contents/Resources/C74/packages/max-mxj/java-classes/lib/jitter.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
