@@ -70,6 +70,9 @@ public class TextPrinterJob implements Printable
 	protected void init()
 	{
 		job = PrinterJob.getPrinterJob();
+		//PrintService[] s = PrinterJob.lookupPrintServices();
+		//for(PrintService ps : s)
+		//	System.out.println("Printer Service : "+ps.getName());
 	}
 
 	/**

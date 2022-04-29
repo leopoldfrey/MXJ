@@ -501,11 +501,29 @@ public class Prompter extends LfObject// implements Printable
 
 	public void usage()
 	{
-		post(ppp + "Usage:\n" + ppp + "   Attributes :\n" + ppp + "      @file : file to display." + ppp + "      @fontsize : font size (int)." + ppp + "      @position : position in the file (%)." + ppp + "      @wrap i1 : set line wrap (0-1)." + ppp + "      @size i1 i2 : set size." + ppp
-				+ "      @location i1 i2 : set location." + ppp + "      @title s1 : set the title of the window (s1 = \'filename\' sets the filename as window title)." + ppp + "   Messages :\n" + ppp + "      open : open the window." + ppp + "      close : close the window." + ppp
-				+ "      center : center the window in the screen." + ppp + "      read (s1) : read a file (optional argument filename)." + ppp + "      write (s1) : write a file (optional argument filename)." + ppp + "      writeagain : replace the currently read file." + ppp
-				+ "      save : save the file (called when patcher is closed)." + ppp + "      frgb i1 i2 i3 : font color." + ppp + "      brgb i1 i2 i3 : background color." + ppp + "      fontsize i1 : font size." + ppp + "      position f1 : sets the prompter position (%)." + ppp
-				+ "   Output :\n" + ppp + "      f1 : returns the viewed position in the text (%).");
+		post("Usage:");
+		post("   Attributes :");
+		post("      @file : file to display.");
+		post("      @fontsize : font size (int).");
+		post("      @position : position in the file (%).");
+		post("      @wrap i1 : set line wrap (0-1).");
+		post("      @size i1 i2 : set size.");
+		post("      @location i1 i2 : set location.");
+		post("      @title s1 : set the title of the window (s1 = \'filename\' sets the filename as window title).");
+		post("   Messages :\n");
+		post("      open : open the window.");
+		post("      close : close the window.");
+		post("      center : center the window in the screen.");
+		post("      read (s1) : read a file (optional argument filename).");
+		post("      write (s1) : write a file (optional argument filename).");
+		post("      writeagain : replace the currently read file.");
+		post("      save : save the file (called when patcher is closed).");
+		post("      frgb i1 i2 i3 : font color.");
+		post("      brgb i1 i2 i3 : background color.");
+		post("      fontsize i1 : font size.");
+		post("      position f1 : sets the prompter position (%).");
+		post("   Output :\n");
+		post("      f1 : returns the viewed position in the text (%).");
 	}
 
 	public void info()

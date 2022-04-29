@@ -22,8 +22,8 @@ public class TextPrinter extends LfObject
 
 	public TextPrinter(Atom[] args)
 	{
-		version = 0.1f;
-		build = "23/04/09";
+		version = 0.2f;
+		build = "06/12/19";
 		INLET_TYPES = new int[] { DataTypes.ALL };
 		OUTLET_TYPES = new int[] { DataTypes.ALL };
 		INLET_ASSIST = new String[] { "" };
@@ -63,6 +63,7 @@ public class TextPrinter extends LfObject
 		{
 			filename = Atom.toOneString(args);
 		}
+		post("Printing "+filename);
 		filename = MaxSystem.locateFile(filename);
 
 		if(filename != null)
